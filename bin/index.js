@@ -29,7 +29,7 @@ async function welcome() {
 
   welcome.stop();
 
-  log(chalk.blue('   Quiz 001: Heaven and Earth'));
+  log(chalk.blue('   Quiz 001: Football'));
   log('');
   log(`   so ${playerName}, ${chalk.bgBlack.dim.gray('listen')}`);
   log('   if you get it right you will transcend,');
